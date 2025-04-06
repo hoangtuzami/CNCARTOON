@@ -1,87 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON\\",
+  "WorkspaceRootPath": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3DFC4FF-5254-4E64-9741-77B68A4E0828}|..\\CNCARTOON.Services\\CNCARTOON.Services.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon.services\\services\\authserivce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3DFC4FF-5254-4E64-9741-77B68A4E0828}|..\\CNCARTOON.Services\\CNCARTOON.Services.csproj|d:\\1_coursefpt\\6_ojt\\project\\cncartoon.services\\services\\authserivce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D3BB853-4D86-4803-87AC-D2E8FAF5307B}|..\\CNCARTOON.Utility\\CNCARTOON.Utility.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon.utility\\constants\\staticuserroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B950855-D200-4FEB-8683-8AD79BE5282A}|..\\CNCARTOON.Models\\CNCARTOON.Models.csproj|d:\\1_coursefpt\\6_ojt\\project\\cncartoon.models\\dto\\auth\\logoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D3BB853-4D86-4803-87AC-D2E8FAF5307B}|..\\CNCARTOON.Utility\\CNCARTOON.Utility.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon.utility\\constants\\staticconnectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3DFC4FF-5254-4E64-9741-77B68A4E0828}|..\\CNCARTOON.Services\\CNCARTOON.Services.csproj|d:\\1_coursefpt\\6_ojt\\project\\cncartoon.services\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B950855-D200-4FEB-8683-8AD79BE5282A}|..\\CNCARTOON.Models\\CNCARTOON.Models.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon.models\\dto\\auth\\signupuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3DFC4FF-5254-4E64-9741-77B68A4E0828}|..\\CNCARTOON.Services\\CNCARTOON.Services.csproj|d:\\1_coursefpt\\6_ojt\\project\\cncartoon.services\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B950855-D200-4FEB-8683-8AD79BE5282A}|..\\CNCARTOON.Models\\CNCARTOON.Models.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon.models\\dto\\auth\\signindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3DFC4FF-5254-4E64-9741-77B68A4E0828}|..\\CNCARTOON.Services\\CNCARTOON.Services.csproj|d:\\1_coursefpt\\6_ojt\\project\\cncartoon.services\\services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B950855-D200-4FEB-8683-8AD79BE5282A}|..\\CNCARTOON.Models\\CNCARTOON.Models.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon.models\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3DFC4FF-5254-4E64-9741-77B68A4E0828}|..\\CNCARTOON.Services\\CNCARTOON.Services.csproj|d:\\1_coursefpt\\6_ojt\\project\\cncartoon.services\\iservices\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE48F13C-C386-46CE-908C-9CE3BABCB42A}|CNCARTOON.API.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE48F13C-C386-46CE-908C-9CE3BABCB42A}|CNCARTOON.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3DFC4FF-5254-4E64-9741-77B68A4E0828}|..\\CNCARTOON.Services\\CNCARTOON.Services.csproj|d:\\1_coursefpt\\6_ojt\\project\\cncartoon.services\\iservices\\iredisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE48F13C-C386-46CE-908C-9CE3BABCB42A}|CNCARTOON.API.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon\\extentions\\servicecollectionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE48F13C-C386-46CE-908C-9CE3BABCB42A}|CNCARTOON.API.csproj|solutionrelative:extentions\\servicecollectionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE48F13C-C386-46CE-908C-9CE3BABCB42A}|CNCARTOON.API.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE48F13C-C386-46CE-908C-9CE3BABCB42A}|CNCARTOON.API.csproj|d:\\1_coursefpt\\6_ojt\\project\\cncartoon\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE48F13C-C386-46CE-908C-9CE3BABCB42A}|CNCARTOON.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC83AE29-040E-43CB-B116-E9E208BB5D38}|..\\CNCARTOON.DataAccess\\CNCARTOON.DataAccess.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon.dataaccess\\migrations\\20250404065012_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B950855-D200-4FEB-8683-8AD79BE5282A}|..\\CNCARTOON.Models\\CNCARTOON.Models.csproj|d:\\1_coursefpt\\6_ojt\\project\\cncartoon.models\\dto\\auth\\signresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC83AE29-040E-43CB-B116-E9E208BB5D38}|..\\CNCARTOON.DataAccess\\CNCARTOON.DataAccess.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon.dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC83AE29-040E-43CB-B116-E9E208BB5D38}|..\\CNCARTOON.DataAccess\\CNCARTOON.DataAccess.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon.dataaccess\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3DFC4FF-5254-4E64-9741-77B68A4E0828}|..\\CNCARTOON.Services\\CNCARTOON.Services.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon.services\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC83AE29-040E-43CB-B116-E9E208BB5D38}|..\\CNCARTOON.DataAccess\\CNCARTOON.DataAccess.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC83AE29-040E-43CB-B116-E9E208BB5D38}|..\\CNCARTOON.DataAccess\\CNCARTOON.DataAccess.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon.dataaccess\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC83AE29-040E-43CB-B116-E9E208BB5D38}|..\\CNCARTOON.DataAccess\\CNCARTOON.DataAccess.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon.dataaccess\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC83AE29-040E-43CB-B116-E9E208BB5D38}|..\\CNCARTOON.DataAccess\\CNCARTOON.DataAccess.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC83AE29-040E-43CB-B116-E9E208BB5D38}|..\\CNCARTOON.DataAccess\\CNCARTOON.DataAccess.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon.dataaccess\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3DFC4FF-5254-4E64-9741-77B68A4E0828}|..\\CNCARTOON.Services\\CNCARTOON.Services.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon.services\\cncartoon.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE48F13C-C386-46CE-908C-9CE3BABCB42A}|CNCARTOON.API.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{BE48F13C-C386-46CE-908C-9CE3BABCB42A}|CNCARTOON.API.csproj|d:\\1_coursefpt\\6_ojt\\project\\cncartoon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BE48F13C-C386-46CE-908C-9CE3BABCB42A}|CNCARTOON.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE48F13C-C386-46CE-908C-9CE3BABCB42A}|CNCARTOON.API.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon\\cncartoon.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BE48F13C-C386-46CE-908C-9CE3BABCB42A}|CNCARTOON.API.csproj|solutionrelative:cncartoon.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E3DFC4FF-5254-4E64-9741-77B68A4E0828}|..\\CNCARTOON.Services\\CNCARTOON.Services.csproj|d:\\1_coursefpt\\6_ojt\\project\\cncartoon.services\\cncartoon.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE48F13C-C386-46CE-908C-9CE3BABCB42A}|CNCARTOON.API.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BE48F13C-C386-46CE-908C-9CE3BABCB42A}|CNCARTOON.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1B950855-D200-4FEB-8683-8AD79BE5282A}|..\\CNCARTOON.Models\\CNCARTOON.Models.csproj|d:\\1_coursefpt\\6_ojt\\project\\cncartoon.models\\dto\\auth\\signindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC83AE29-040E-43CB-B116-E9E208BB5D38}|..\\CNCARTOON.DataAccess\\CNCARTOON.DataAccess.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon.dataaccess\\cncartoon.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BE48F13C-C386-46CE-908C-9CE3BABCB42A}|CNCARTOON.API.csproj|d:\\1_coursefpt\\6_ojt\\project\\cncartoon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE48F13C-C386-46CE-908C-9CE3BABCB42A}|CNCARTOON.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B950855-D200-4FEB-8683-8AD79BE5282A}|..\\CNCARTOON.Models\\CNCARTOON.Models.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon.models\\cncartoon.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BE48F13C-C386-46CE-908C-9CE3BABCB42A}|CNCARTOON.API.csproj|d:\\1_coursefpt\\6_ojt\\project\\cncartoon\\extentions\\redisserviceextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE48F13C-C386-46CE-908C-9CE3BABCB42A}|CNCARTOON.API.csproj|solutionrelative:extentions\\redisserviceextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D3BB853-4D86-4803-87AC-D2E8FAF5307B}|..\\CNCARTOON.Utility\\CNCARTOON.Utility.csproj|d:\\1_coursefpt\\6_ojt\\cncartoon.utility\\cncartoon.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BE48F13C-C386-46CE-908C-9CE3BABCB42A}|CNCARTOON.API.csproj|d:\\1_coursefpt\\6_ojt\\project\\cncartoon\\extentions\\servicecollectionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE48F13C-C386-46CE-908C-9CE3BABCB42A}|CNCARTOON.API.csproj|solutionrelative:extentions\\servicecollectionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3BB853-4D86-4803-87AC-D2E8FAF5307B}|..\\CNCARTOON.Utility\\CNCARTOON.Utility.csproj|d:\\1_coursefpt\\6_ojt\\project\\cncartoon.utility\\constants\\staticconnectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B950855-D200-4FEB-8683-8AD79BE5282A}|..\\CNCARTOON.Models\\CNCARTOON.Models.csproj|d:\\1_coursefpt\\6_ojt\\project\\cncartoon.models\\dto\\auth\\signupuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -99,306 +74,219 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StaticUserRoles.cs",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.Utility\\Constants\\StaticUserRoles.cs",
-              "RelativeDocumentMoniker": "..\\CNCARTOON.Utility\\Constants\\StaticUserRoles.cs",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.Utility\\Constants\\StaticUserRoles.cs",
-              "RelativeToolTip": "..\\CNCARTOON.Utility\\Constants\\StaticUserRoles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T01:24:53.173Z",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T06:36:22.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.DataAccess\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "..\\CNCARTOON.DataAccess\\Repository\\Repository.cs",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.DataAccess\\Repository\\Repository.cs",
-              "RelativeToolTip": "..\\CNCARTOON.DataAccess\\Repository\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Services\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "..\\CNCARTOON.Services\\Services\\TokenService.cs",
+              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Services\\Services\\TokenService.cs",
+              "RelativeToolTip": "..\\CNCARTOON.Services\\Services\\TokenService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwCAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T04:09:30.742Z"
+              "WhenOpened": "2025-04-06T05:20:18.129Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.DataAccess\\IRepository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "..\\CNCARTOON.DataAccess\\IRepository\\IUserRepository.cs",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.DataAccess\\IRepository\\IUserRepository.cs",
-              "RelativeToolTip": "..\\CNCARTOON.DataAccess\\IRepository\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwCMAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T18:15:59.74Z"
+              "WhenOpened": "2025-04-06T02:23:48.226Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AuthSerivce.cs",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.Services\\Services\\AuthSerivce.cs",
+              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Services\\Services\\AuthSerivce.cs",
               "RelativeDocumentMoniker": "..\\CNCARTOON.Services\\Services\\AuthSerivce.cs",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.Services\\Services\\AuthSerivce.cs",
+              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Services\\Services\\AuthSerivce.cs",
               "RelativeToolTip": "..\\CNCARTOON.Services\\Services\\AuthSerivce.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAADwv2AAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwC8AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T13:46:14.011Z",
+              "WhenOpened": "2025-04-06T02:33:59.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RedisService.cs",
+              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Services\\Services\\RedisService.cs",
+              "RelativeDocumentMoniker": "..\\CNCARTOON.Services\\Services\\RedisService.cs",
+              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Services\\Services\\RedisService.cs",
+              "RelativeToolTip": "..\\CNCARTOON.Services\\Services\\RedisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:00:14.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:04:59.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRedisService.cs",
+              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Services\\IServices\\IRedisService.cs",
+              "RelativeDocumentMoniker": "..\\CNCARTOON.Services\\IServices\\IRedisService.cs",
+              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Services\\IServices\\IRedisService.cs",
+              "RelativeToolTip": "..\\CNCARTOON.Services\\IServices\\IRedisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:00:01.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Services\\IServices\\ITokenService.cs",
+              "RelativeDocumentMoniker": "..\\CNCARTOON.Services\\IServices\\ITokenService.cs",
+              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Services\\IServices\\ITokenService.cs",
+              "RelativeToolTip": "..\\CNCARTOON.Services\\IServices\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:18:52.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Services\\IServices\\IAuthService.cs",
+              "RelativeDocumentMoniker": "..\\CNCARTOON.Services\\IServices\\IAuthService.cs",
+              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Services\\IServices\\IAuthService.cs",
+              "RelativeToolTip": "..\\CNCARTOON.Services\\IServices\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T12:46:39.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogoutDTO.cs",
+              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Models\\DTO\\Auth\\LogoutDTO.cs",
+              "RelativeDocumentMoniker": "..\\CNCARTOON.Models\\DTO\\Auth\\LogoutDTO.cs",
+              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Models\\DTO\\Auth\\LogoutDTO.cs",
+              "RelativeToolTip": "..\\CNCARTOON.Models\\DTO\\Auth\\LogoutDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T12:43:21.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignResponseDTO.cs",
+              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Models\\DTO\\Auth\\SignResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\CNCARTOON.Models\\DTO\\Auth\\SignResponseDTO.cs",
+              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Models\\DTO\\Auth\\SignResponseDTO.cs",
+              "RelativeToolTip": "..\\CNCARTOON.Models\\DTO\\Auth\\SignResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:01:48.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CNCARTOON.Services.csproj",
+              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Services\\CNCARTOON.Services.csproj",
+              "RelativeDocumentMoniker": "..\\CNCARTOON.Services\\CNCARTOON.Services.csproj",
+              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Services\\CNCARTOON.Services.csproj",
+              "RelativeToolTip": "..\\CNCARTOON.Services\\CNCARTOON.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T07:18:20.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.DataAccess\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "..\\CNCARTOON.DataAccess\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.DataAccess\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "..\\CNCARTOON.DataAccess\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Title": "SignInDTO.cs",
+              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Models\\DTO\\Auth\\SignInDTO.cs",
+              "RelativeDocumentMoniker": "..\\CNCARTOON.Models\\DTO\\Auth\\SignInDTO.cs",
+              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Models\\DTO\\Auth\\SignInDTO.cs",
+              "RelativeToolTip": "..\\CNCARTOON.Models\\DTO\\Auth\\SignInDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T06:04:20.674Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SignUpUserDTO.cs",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.Models\\DTO\\Auth\\SignUpUserDTO.cs",
-              "RelativeDocumentMoniker": "..\\CNCARTOON.Models\\DTO\\Auth\\SignUpUserDTO.cs",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.Models\\DTO\\Auth\\SignUpUserDTO.cs",
-              "RelativeToolTip": "..\\CNCARTOON.Models\\DTO\\Auth\\SignUpUserDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T12:54:16.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAAE4AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T12:37:36.762Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "..\\CNCARTOON.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "..\\CNCARTOON.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T05:36:57.366Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StaticConnectionString.cs",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.Utility\\Constants\\StaticConnectionString.cs",
-              "RelativeDocumentMoniker": "..\\CNCARTOON.Utility\\Constants\\StaticConnectionString.cs",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.Utility\\Constants\\StaticConnectionString.cs",
-              "RelativeToolTip": "..\\CNCARTOON.Utility\\Constants\\StaticConnectionString.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T06:25:34.863Z",
+              "WhenOpened": "2025-04-06T12:43:44.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.DataAccess\\Repository\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "..\\CNCARTOON.DataAccess\\Repository\\UnitOfWork.cs",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.DataAccess\\Repository\\UnitOfWork.cs",
-              "RelativeToolTip": "..\\CNCARTOON.DataAccess\\Repository\\UnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Title": "RedisServiceExtentions.cs",
+              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON\\Extentions\\RedisServiceExtentions.cs",
+              "RelativeDocumentMoniker": "Extentions\\RedisServiceExtentions.cs",
+              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON\\Extentions\\RedisServiceExtentions.cs",
+              "RelativeToolTip": "Extentions\\RedisServiceExtentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T04:28:40.937Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T05:38:07.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.Models\\Domain\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "..\\CNCARTOON.Models\\Domain\\ApplicationUser.cs",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.Models\\Domain\\ApplicationUser.cs",
-              "RelativeToolTip": "..\\CNCARTOON.Models\\Domain\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T05:48:41.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SignInDTO.cs",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.Models\\DTO\\Auth\\SignInDTO.cs",
-              "RelativeDocumentMoniker": "..\\CNCARTOON.Models\\DTO\\Auth\\SignInDTO.cs",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.Models\\DTO\\Auth\\SignInDTO.cs",
-              "RelativeToolTip": "..\\CNCARTOON.Models\\DTO\\Auth\\SignInDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T12:58:16.911Z"
+              "WhenOpened": "2025-04-06T07:20:34.336Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.DataAccess\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "..\\CNCARTOON.DataAccess\\Repository\\UserRepository.cs",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.DataAccess\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "..\\CNCARTOON.DataAccess\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T04:34:05.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "ServiceCollectionExtentions.cs",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON\\Extentions\\ServiceCollectionExtentions.cs",
+              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON\\Extentions\\ServiceCollectionExtentions.cs",
               "RelativeDocumentMoniker": "Extentions\\ServiceCollectionExtentions.cs",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON\\Extentions\\ServiceCollectionExtentions.cs",
+              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON\\Extentions\\ServiceCollectionExtentions.cs",
               "RelativeToolTip": "Extentions\\ServiceCollectionExtentions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T05:45:57.822Z"
+              "WhenOpened": "2025-04-06T07:10:55.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20250404065012_CreateIdentitySchema.cs",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.DataAccess\\Migrations\\20250404065012_CreateIdentitySchema.cs",
-              "RelativeDocumentMoniker": "..\\CNCARTOON.DataAccess\\Migrations\\20250404065012_CreateIdentitySchema.cs",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.DataAccess\\Migrations\\20250404065012_CreateIdentitySchema.cs",
-              "RelativeToolTip": "..\\CNCARTOON.DataAccess\\Migrations\\20250404065012_CreateIdentitySchema.cs",
+              "DocumentIndex": 15,
+              "Title": "StaticConnectionString.cs",
+              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Utility\\Constants\\StaticConnectionString.cs",
+              "RelativeDocumentMoniker": "..\\CNCARTOON.Utility\\Constants\\StaticConnectionString.cs",
+              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Utility\\Constants\\StaticConnectionString.cs",
+              "RelativeToolTip": "..\\CNCARTOON.Utility\\Constants\\StaticConnectionString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:23:12.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SignUpUserDTO.cs",
+              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Models\\DTO\\Auth\\SignUpUserDTO.cs",
+              "RelativeDocumentMoniker": "..\\CNCARTOON.Models\\DTO\\Auth\\SignUpUserDTO.cs",
+              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\Project\\CNCARTOON.Models\\DTO\\Auth\\SignUpUserDTO.cs",
+              "RelativeToolTip": "..\\CNCARTOON.Models\\DTO\\Auth\\SignUpUserDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T05:37:02.164Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.Services\\IServices\\IAuthService.cs",
-              "RelativeDocumentMoniker": "..\\CNCARTOON.Services\\IServices\\IAuthService.cs",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.Services\\IServices\\IAuthService.cs",
-              "RelativeToolTip": "..\\CNCARTOON.Services\\IServices\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T05:25:46.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.DataAccess\\IRepository\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "..\\CNCARTOON.DataAccess\\IRepository\\IUnitOfWork.cs",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.DataAccess\\IRepository\\IUnitOfWork.cs",
-              "RelativeToolTip": "..\\CNCARTOON.DataAccess\\IRepository\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T18:06:10.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CNCARTOON.API.csproj",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON\\CNCARTOON.API.csproj",
-              "RelativeDocumentMoniker": "CNCARTOON.API.csproj",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON\\CNCARTOON.API.csproj",
-              "RelativeToolTip": "CNCARTOON.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-04T06:22:02.508Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-03T12:50:06.964Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CNCARTOON.Services.csproj",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.Services\\CNCARTOON.Services.csproj",
-              "RelativeDocumentMoniker": "..\\CNCARTOON.Services\\CNCARTOON.Services.csproj",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.Services\\CNCARTOON.Services.csproj",
-              "RelativeToolTip": "..\\CNCARTOON.Services\\CNCARTOON.Services.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-03T12:46:12.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CNCARTOON.DataAccess.csproj",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.DataAccess\\CNCARTOON.DataAccess.csproj",
-              "RelativeDocumentMoniker": "..\\CNCARTOON.DataAccess\\CNCARTOON.DataAccess.csproj",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.DataAccess\\CNCARTOON.DataAccess.csproj",
-              "RelativeToolTip": "..\\CNCARTOON.DataAccess\\CNCARTOON.DataAccess.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-03T12:45:45.852Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-03T12:50:03.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CNCARTOON.Models.csproj",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.Models\\CNCARTOON.Models.csproj",
-              "RelativeDocumentMoniker": "..\\CNCARTOON.Models\\CNCARTOON.Models.csproj",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.Models\\CNCARTOON.Models.csproj",
-              "RelativeToolTip": "..\\CNCARTOON.Models\\CNCARTOON.Models.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-04T05:47:17.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CNCARTOON.Utility.csproj",
-              "DocumentMoniker": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.Utility\\CNCARTOON.Utility.csproj",
-              "RelativeDocumentMoniker": "..\\CNCARTOON.Utility\\CNCARTOON.Utility.csproj",
-              "ToolTip": "D:\\1_CourseFPT\\6_OJT\\CNCARTOON.Utility\\CNCARTOON.Utility.csproj",
-              "RelativeToolTip": "..\\CNCARTOON.Utility\\CNCARTOON.Utility.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-03T12:46:40.804Z"
+              "WhenOpened": "2025-04-06T07:02:02.158Z"
             }
           ]
         }

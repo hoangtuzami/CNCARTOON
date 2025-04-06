@@ -16,6 +16,12 @@ namespace CNCARTOON.API.Extentions
             // Registering IAuthService with its implementation AuthSerivce
             services.AddScoped<IAuthService, AuthSerivce>();
 
+            // Registering IRedisService with its implementation RedisService
+            services.AddScoped<IRedisService, RedisService>();
+
+            // Registering ITokenService with its implementation TokenService
+            services.AddScoped<ITokenService, TokenService>();
+
             return services;
         }
     }

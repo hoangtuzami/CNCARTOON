@@ -7,5 +7,6 @@ namespace CNCARTOON.Services.IServices
     {
         public Task<ResponseDTO> SignInAsync(SignInDTO signIpDTO);
         public Task<ResponseDTO> SignUpCustomerAsync(SignUpUserDTO signUpUserDTO);
+        public Task<ResponseDTO> LogoutAsync(LogoutDTO logout);
     }
 }

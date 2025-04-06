@@ -22,5 +22,19 @@ namespace CNCARTOON.API.Controllers
             var responseDto = await _authService.SignUpCustomerAsync(signUpUserDTO);
             return StatusCode(responseDto.StatusCode, responseDto);
         }
+
+        [HttpPost("sign-in")]
+        public async Task<ActionResult<ResponseDTO>> SignIn([FromBody] SignInDTO signInDTO)
+        {
+            var responseDto = await _authService.SignInAsync(signInDTO);
+            return StatusCode(responseDto.StatusCode, responseDto);
+        }
+
+        [HttpPost("logout")]
+        public async Task<ActionResult<ResponseDTO>> Logout([FromBody] LogoutDTO logout)
+        {
+            var responseDto = await _authService.LogoutAsync(logout);
+            return StatusCode(responseDto.StatusCode, responseDto);
+        }
     }
 }
